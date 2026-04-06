@@ -1,7 +1,7 @@
 import 'package:adradio/extensions/custom_extensions.dart';
 
 class ApiEndpoint {
-  static const String mainDomain = "PUT-YOUR-DOMAIN-HERE";
+  static const String mainDomain = "https://hy2.co.uk";
 
 
   static const String baseUrl = "$mainDomain/api/v1";
